@@ -1,6 +1,6 @@
 # site settings
 title: Jerk your beat
-subtitle: by jybeat
+subtitle: by jybeats
 email: jybeat@protonmail.com
 description: A description.
 baseurl: "/jybeat" # the subpath of your site, e.g. /blog
