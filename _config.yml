@@ -1,6 +1,6 @@
 # site settings
-title: jybeat
-subtitle: by someone
+title: Jerk your beat
+subtitle: by jybeat
 email: youremailaddress@gmail.com
 description: A description.
 baseurl: "/jybeat" # the subpath of your site, e.g. /blog
