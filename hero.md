@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dancing
-description: Improve dance videos with porn
+title: JOI
+description: Add jerk off instructions to music videos or create cock hero style videos
 image: assets/images/logo_wide.png
 nav-menu: true
 ---
