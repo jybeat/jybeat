@@ -2,7 +2,7 @@
 layout: post
 title: Dancing
 description: Improve dance videos with porn
-image: assets/images/logo_wide.png
+image: assets/images/logo2.png
 nav-menu: true
 ---
 
