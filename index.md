@@ -12,7 +12,7 @@ Jerkyourbeat offers a new way of watching porn. It creates music videos for any 
 
 <div class="6u 12u$(small)">
 
-		<h4>Unordered</h4>
+		<h4>Features</h4>
 		<ul>
 			<li><b>Customizable.</b> Jerkyourbeat creates awesome music videos. The choice of music and porn in entierly up to you!</li>
 			<li><b>Inclusive.</b> There are no restrictions on the videos you create! All kinds of different kinks and tastes are equally supported.</li>
