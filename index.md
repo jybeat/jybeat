@@ -14,16 +14,9 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris a
 
 		<h4>Unordered</h4>
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
+			<li>Customizable. Jerkyourbeat creates awesome music videos. The choice of music and porn in entierly up to you.</li>
+			<li>Inclusive. There are no restrictions on the videos you create. All kinds of different kinks and tastes are equally supported.</li>
 			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
 		</ul>
 
 	</div>
