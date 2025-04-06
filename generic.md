@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Dancing
+description: Improve dance videos with porn
 image: assets/images/logo_wide.png
 nav-menu: true
 ---
