@@ -14,7 +14,7 @@
 		background-attachment: fixed;
 		background-position: right top;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 		border-bottom: 0 !important;
 		cursor: default;
 		height: 60vh;
@@ -30,6 +30,7 @@
 			@include vendor('pointer-events', 'none');
 			background-color: _palette(bg);
 			content: '';
+			size: contain;
 			display: block;
 			height: 100%;
 			left: 0;
