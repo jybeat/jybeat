@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 image: assets/images/logo_wide.png
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
