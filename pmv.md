@@ -2,7 +2,7 @@
 layout: post
 title: PMV
 description: Create high quality porn music videos with porn and music of your choice
-image: assets/images/logo_wide.png
+image: assets/images/logo2.png
 nav-menu: true
 ---
 
