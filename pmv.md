@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dancing
-description: Improve dance videos with porn
+title: PMV
+description: Create high quality porn music videos with porn and music of your choice
 image: assets/images/logo_wide.png
 nav-menu: true
 ---
