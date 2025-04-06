@@ -53,7 +53,7 @@ img {
 			img {
 				width: 100%;
 			}
-		}
+		}  */
 
 		&.main {
 			display: block;
@@ -67,5 +67,5 @@ img {
 			@include breakpoint(small) {
 				margin: (_size(element-margin) * 0.75) 0;
 			}
-		} */
+		}
 	}
